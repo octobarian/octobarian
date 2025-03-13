@@ -82,8 +82,6 @@ Here are some of the projects I've worked on:
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Octobarian&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Octobarian&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Octobarian&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
