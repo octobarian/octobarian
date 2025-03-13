@@ -25,7 +25,7 @@ Here are some of the projects I've worked on:
   </tr>
   <tr>
     <td>
-      <img src="https://hakaforge.com/logo.png" width="100%">
+      <img src="https://github.com/octobarian/octobarian/blob/main/haka_example.png?raw=true" width="100%">
     </td>
     <td>
       <h3>Haka & Forge</h3>
