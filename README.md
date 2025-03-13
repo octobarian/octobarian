@@ -14,7 +14,7 @@ Here are some of the projects I've worked on:
 <table>
   <tr>
     <td width="40%">
-      <img src="https://scanada.ca/logo.png" width="100%">
+      <img src="https://github.com/octobarian/octobarian/blob/main/scanada_example.png?raw=true" width="100%">
     </td>
     <td>
       <h3>Scanada</h3>
@@ -36,7 +36,7 @@ Here are some of the projects I've worked on:
   </tr>
   <tr>
     <td>
-      <img src="https://yetiminis.com/logo.png" width="100%">
+      <img src="https://github.com/octobarian/octobarian/blob/main/yeti_example.png?raw=true" width="100%">
     </td>
     <td>
       <h3>Yeti Minis</h3>
