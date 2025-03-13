@@ -88,5 +88,5 @@ Here are some of the projects I've worked on:
 
 ---
 
-⭐️ **Want to connect?** Find me on [LinkedIn](https://linkedin.com/in/yourprofile) or visit my website at [HakaForge.com](http://hakaforge.com).
+⭐️ **Want to connect?** Find me on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rileybgeorge/)) or visit my website at [HakaForge.com](http://hakaforge.com).
 
